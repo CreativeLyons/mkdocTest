@@ -1,0 +1,19 @@
+site_name: Nuke Survival Toolkit Documentation
+site_url: ""
+
+docs_dir: documentationBuild
+site_dir: NukeSurvivalToolkit/.documentationSite
+use_directory_urls: false
+
+nav:
+    - Intro: index.md
+    - Installation: installation.md
+    - Tech Specs: techSpecs.md
+    - Menus: menus.md
+    - About: about.md
+
+theme:
+    name: material
+
+plugins:
+  - search

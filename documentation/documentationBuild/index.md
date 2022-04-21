@@ -1,5 +1,5 @@
 # Nuke Survival Toolkit Documentation
-![](images/NukeSurvivalToolkit_Splashpage_v04.jpg)
+![](img/NukeSurvivalToolkit_Splashpage_v04.jpg)
 
 `Release v2.1.0`
 

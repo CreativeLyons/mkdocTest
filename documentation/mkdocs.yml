@@ -2,7 +2,7 @@ site_name: Nuke Survival Toolkit Documentation
 site_url: ""
 
 docs_dir: documentationBuild
-site_dir: NukeSurvivalToolkit/.documentationSite
+site_dir: NukeSurvivalToolkit/documentationSite
 use_directory_urls: false
 
 nav:

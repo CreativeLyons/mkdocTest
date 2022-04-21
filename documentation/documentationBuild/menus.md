@@ -4,4 +4,4 @@ The tool menu’s categorisation is laid out in a bit of a mix between Nuke’s 
 
 | Nuke Survival Toolkit Menu Bar:			         | Nukepedia Menu Bar  |
 | ---	                                          | --- |
-| ![](images/NSTMenus.jpg)   | ![](images/NukepediaMenus.jpg) |
+| ![](img/NSTMenus.jpg)   | ![](img/NukepediaMenus.jpg) |

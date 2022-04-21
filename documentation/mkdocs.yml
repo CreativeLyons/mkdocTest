@@ -13,7 +13,4 @@ nav:
     - About: about.md
 
 theme:
-    name: material
-
-plugins:
-  - search
+    name: readthedocs

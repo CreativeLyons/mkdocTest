@@ -129,7 +129,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-documentation/site/
+# documentation/site/ - committed for offline viewing
 .DS_Store
 
 # mypy

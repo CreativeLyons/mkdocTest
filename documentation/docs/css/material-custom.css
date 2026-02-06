@@ -108,9 +108,9 @@
     color: var(--nuke-blue) !important;
 }
 
-/* Sidebar Category Labels - Orange to distinguish expandable sections from tool links */
+/* Sidebar Category Labels - Blue to distinguish expandable sections from tool links */
 .md-nav__item--nested > .md-nav__link {
-    color: var(--nuke-orange) !important;
+    color: var(--nuke-blue) !important;
     font-weight: 600;
 }
 

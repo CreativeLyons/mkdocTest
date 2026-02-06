@@ -1,3 +1,1 @@
-
-[NST Documentation](https://creativelyons.github.io/mkdocTest/documentation/NukeSurvivalToolkit/documentationSite)
-
+[Nuke Survival Toolkit Documentation](https://creativelyons.github.io/mkdocTest/)

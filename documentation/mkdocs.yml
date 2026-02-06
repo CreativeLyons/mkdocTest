@@ -4,6 +4,19 @@ site_url: ""
 # Enable file extensions for offline viewing
 use_directory_urls: false
 
+# PDF export - mkdocs-to-pdf (WeasyPrint)
+# Run with: DYLD_LIBRARY_PATH="/opt/homebrew/lib" PKG_CONFIG_PATH="/opt/homebrew/lib/pkgconfig" mkdocs build
+plugins:
+  - search
+  - with-pdf:
+      enabled_if_env: ENABLE_PDF_EXPORT
+      output_path: NST_Documentation.pdf
+      cover_title: Nuke Survival Toolkit Documentation
+      cover_subtitle: Release v2.1.0
+      author: Tony Lyons
+      copyright: "© 2021 Tony Lyons"
+      toc_level: 2
+
 nav:
     - Home: index.md
     - Installation: installation.md

@@ -1,16 +1,23 @@
 /**
  * Open all external links in new tabs
+ * Checks if the link hostname differs from the current window hostname
  */
 (function() {
     'use strict';
 
     function fixExternalLinks() {
-        // Find all links that start with http:// or https://
-        document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(function(link) {
-            // Don't modify if already has target
-            if (!link.hasAttribute('target')) {
-                link.setAttribute('target', '_blank');
-                link.setAttribute('rel', 'noopener noreferrer');
+        var currentHost = window.location.hostname;
+        
+        document.querySelectorAll('a').forEach(function(link) {
+            // Only act on http/https links
+            if (link.protocol.startsWith('http')) {
+                // If the hostname is different, it's external
+                if (link.hostname !== currentHost) {
+                    if (!link.hasAttribute('target')) {
+                        link.setAttribute('target', '_blank');
+                        link.setAttribute('rel', 'noopener noreferrer');
+                    }
+                }
             }
         });
     }

@@ -127,9 +127,39 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
-# mkdocs documentation
+# mkdocs documentation - built by GitHub Actions
 /site
-# documentation/site/ - committed for offline viewing
+documentation/site/
+
+# Not required for GitHub Pages wiki build
+documentation/*.py
+documentation/*.json
+documentation/_config.yml
+documentation/PDF_BUILD_NOTES.md
+documentation/README.md
+documentation/WIKI_ROADMAP.md
+documentation/restructure_pages.py
+documentation/parse_images*.py
+documentation/verify_all_tools.py
+documentation/fix_*.py
+documentation/update_markdown_images.py
+documentation/accurate_image_map.py
+documentation/accurate-image-mapping.json
+documentation/image-mapping.json
+documentation/tool-inventory.json
+
+# PDFs - built locally
+*.pdf
+
+# Root-level utility scripts (image optimization, auditing, etc.)
+audit_images.py
+convert_*.py
+optimize_gifs.py
+fix_shared_images.py
+resize_images.py
+rename_map.txt
+
+# macOS
 .DS_Store
 
 # mypy

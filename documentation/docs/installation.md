@@ -1,9 +1,9 @@
 # Installation
 
 
-Here’s how to install and use the Nuke Survival Toolkit: 
+Here’s how to install and use the Nuke Survival Toolkit:
 
-1. Download the .zip folder from the Nuke Survival Toolkit github website.  
+1. Download the .zip folder from the Nuke Survival Toolkit github website.
 
 	[https://github.com/CreativeLyons/NukeSurvivalToolkit_publicRelease/releases/latest](https://github.com/CreativeLyons/NukeSurvivalToolkit_publicRelease/releases/latest)
 
@@ -22,4 +22,6 @@ Here’s how to install and use the Nuke Survival Toolkit:
 `Your/NukeSurvivalToolkit/FolderPath/Here` text with the NukeSurvivalToolkit filepath location, making sure to keep quotation marks around the filepath.
 
 6. Save your init.py file, and restart your Nuke session.
-7. That’s it! Congrats, you will now see a little red multi-tool in your nuke toolbar.    ![](img/NukeSurvivalToolkit_Documentation_v2.1.0.png)
+7. That’s it! Congrats, you will now see a little red multi-tool in your nuke toolbar.    ![](img/NukeSurvivalToolkit_Documentation_v2.1.0.webp)
+
+![installation-1.webp](img/tools/installation-1.webp)

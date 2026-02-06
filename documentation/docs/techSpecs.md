@@ -9,7 +9,7 @@ There are a few things about this menu that try and make it both easy and safe t
     4. `./icons`    - for all tool icons
     5. `./images` - for all image files required for some tools/examples
 
-	**This has changed from the v1.1.1 version of the NST to be relative paths.  There were some network startup slowdowns happening from nuke recursively adding many pluginPaths in the previous init.py.  Removing all the folders and narrowing it down to just 5 seemed to speed up start up time while keeping the menu looking the same.  Also adding the plugin paths in the menu instead of the init made sure that there was not unnecessary load time happening for renderfarms or command-line nuke sessions where the GUI and menu isn’t needed.**
+    **IMPORTANT:** This has changed from the v1.1.1 version of the NST to be relative paths. There were some network startup slowdowns happening from nuke recursively adding many pluginPaths in the previous init.py. Removing all the folders and narrowing it down to just 5 seemed to speed up start up time while keeping the menu looking the same. Also adding the plugin paths in the menu instead of the init made sure that there was not unnecessary load time happening for renderfarms or command-line nuke sessions where the GUI and menu is not needed.
 
 
 

@@ -69,6 +69,16 @@
     color: var(--nuke-text) !important;
 }
 
+/* Force dark text in Light Mode */
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3,
+[data-md-color-scheme="default"] .md-typeset h4,
+[data-md-color-scheme="default"] .md-typeset h5,
+[data-md-color-scheme="default"] .md-typeset h6 {
+    color: #000000 !important;
+}
+
 /* Punchier Titles (Increased Sizes) */
 .md-typeset h1 {
     font-size: 3.0em; /* Bumped from 2.5em to 3.0em */

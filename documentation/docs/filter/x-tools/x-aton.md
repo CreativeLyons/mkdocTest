@@ -2,6 +2,8 @@
 
 **Author:** Xavier Martin - [http://www.xaviermartinvfx.com/articles/](http://www.xaviermartinvfx.com/articles/)
 
+![x-aton-2.jpg](../../img/tools/filter/x-tools/x-aton-2.webp)
+
 - [http://www.nukepedia.com/blink/filter/x_aton](http://www.nukepedia.com/blink/filter/x_aton)
 - [http://www.xaviermartinvfx.com/x_aton/](http://www.xaviermartinvfx.com/x_aton/)
 
@@ -12,5 +14,3 @@ It supports Nuke 3D Cameras, Point Lights and Axis to have a better control of t
 All of this using the power of the GPU to speed up the calculations.
 
 ![x-aton-1.jpg](../../img/tools/filter/x-tools/x-aton-1.webp)
-
-![x-aton-2.jpg](../../img/tools/filter/x-tools/x-aton-2.webp)

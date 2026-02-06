@@ -10,6 +10,8 @@
 
 - [https://www.chrisfryer.co.uk/post/godraysprojector](https://www.chrisfryer.co.uk/post/godraysprojector)
 - [https://www.chrisfryer.co.uk/post/godraysprojector-shadows-and-a-total-rebuild](https://www.chrisfryer.co.uk/post/godraysprojector-shadows-and-a-total-rebuild)
+- Video: [https://vimeo.com/476747690](https://vimeo.com/476747690)
+- Video: [https://vimeo.com/519293235](https://vimeo.com/519293235)
 
 GodRaysProjector is a 3D alternative to the generally 2D Godrays node. By connecting a renderCamera, projectionCamera and an image to project. Thanks to the wonders of BlinkScript it also has a wicked-fast GPU preview!
 

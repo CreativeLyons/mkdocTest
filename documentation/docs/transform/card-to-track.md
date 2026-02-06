@@ -7,6 +7,7 @@
 
 
 - [http://www.nukepedia.com/python/3d/cardtotrack](http://www.nukepedia.com/python/3d/cardtotrack)
+- Video: [https://youtu.be/N-_M2lJWpe4](https://youtu.be/N-_M2lJWpe4)
 
 Finding position in 3D space based on Geometry, World position pass, Deep or manual method. Reconcile 3D position to CornerPin, Transform and Roto nodes.
 ### Features:

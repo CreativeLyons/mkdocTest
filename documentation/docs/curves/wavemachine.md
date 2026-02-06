@@ -6,6 +6,7 @@
 </div>
 
 - [https://www.nukepedia.com/toolsets/other/wavemachine](https://www.nukepedia.com/toolsets/other/wavemachine)
+- Video: [https://vimeo.com/431245732](https://vimeo.com/431245732)
 
 Node Based Animation - Generate and modify animation curves with this toolset collection.
 ---

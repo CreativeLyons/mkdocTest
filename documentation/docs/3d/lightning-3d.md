@@ -7,6 +7,7 @@
 
 - [http://erwanleroy.com/making-3d-lightning-in-nuke-using-blinkscript/](http://erwanleroy.com/making-3d-lightning-in-nuke-using-blinkscript/)
 - [https://github.com/herronelou/nuke_stuff/blob/master/toolsets/blinkscript/lightning_generator.nk](https://github.com/herronelou/nuke_stuff/blob/master/toolsets/blinkscript/lightning_generator.nk)
+- Video: [https://vimeo.com/387061845](https://vimeo.com/387061845)
 
 Making 3D Lightning in Nuke using Blinkscript.
 

@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/python/3d/cardtotrack](http://www.nukepedia.com/python/3d/cardtotrack)
+- Video: [https://youtu.be/N-_M2lJWpe4](https://youtu.be/N-_M2lJWpe4)
 
 CornerPin matchmove/stabilize meant to be used with CardToTrack tool.
 

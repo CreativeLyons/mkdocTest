@@ -6,7 +6,6 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/draw/gradmagic](http://www.nukepedia.com/gizmos/draw/gradmagic)
+- Video: [https://vimeo.com/341514150](https://vimeo.com/341514150)
 
 A live sampling 4 point gradient tool with ability to bake colors.
-
-![grad-magic-1.webp](../img/tools/draw/grad-magic-1.webp)

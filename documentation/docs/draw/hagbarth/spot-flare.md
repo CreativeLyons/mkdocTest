@@ -7,6 +7,7 @@
 
 - [https://hagbarth.net/project/spotflare/](https://hagbarth.net/project/spotflare/)
 - [http://www.nukepedia.com/gizmos/draw/spot-flare](http://www.nukepedia.com/gizmos/draw/spot-flare)
+- Video: [https://vimeo.com/116440577](https://vimeo.com/116440577)
 
 Spotflare is a procedural flare generator, that generates a general radial light but also allow for light shimmer and "cone" masking.
 

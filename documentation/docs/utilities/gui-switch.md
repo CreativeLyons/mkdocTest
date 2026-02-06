@@ -2,8 +2,6 @@
 
 **Author:** Tony Lyons - [http://www.CompositingMentor.com](http://www.CompositingMentor.com)
 
-![gui-switch-1.webp](../img/tools/utilities/gui-switch-1.webp)
-
 There were some issues with the $gui expression that everyone knows: when you render a frame locally instead of on a render farm, it did not register and would not switch over.
 
 This tool uses a lesser known python expression called `nuke.executing()` which seems to solve this problem.
@@ -17,5 +15,7 @@ Usually this is for speedy work environments and switching to higher settings/sa
 - When the node is **disabled**: Green and says "RENDER"
 This will let you conveniently preview the Render or GUI.
 *Node has no settings, just a description. Just plug in and disable/enable!*
+
+![gui-switch-1.webp](../img/tools/utilities/gui-switch-1.webp)
 
 ![gui-switch-2.webp](../img/tools/utilities/gui-switch-2.webp)

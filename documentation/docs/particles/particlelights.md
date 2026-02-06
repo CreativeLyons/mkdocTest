@@ -7,6 +7,7 @@
 
 - [http://www.nukepedia.com/blink/particles/particle-lights](http://www.nukepedia.com/blink/particles/particle-lights)
 - [https://hagbarth.net/project/particle-lights/](https://hagbarth.net/project/particle-lights/)
+- Video: [https://vimeo.com/96521727](https://vimeo.com/96521727)
 
 Particle Lights is a custom relight node that enables particles to cast lights into a scene.
 

@@ -2,7 +2,7 @@
 
 **Author:** Mark Joey Tang - [http://www.facebook.com/MJTlab](http://www.facebook.com/MJTlab)
 
-![deepsamplecount-2.webp](../img/tools/deep/deepsamplecount-2.webp)
+![deepsamplecount-1.webp](../img/tools/deep/deepsamplecount-1.webp)
 
 - [http://www.nukepedia.com/gizmos/deep/deepsamplecount_v11](http://www.nukepedia.com/gizmos/deep/deepsamplecount_v11)
 
@@ -13,4 +13,4 @@ The setup runs by some math & TCL expression, able to run in realtime with fast 
 It will create a channel called 'deepSample.count', which stores the total samples per pixel.
 *Supports detecting up to 48 samples per pixel on v1.2+*
 
-![deepsamplecount-1.webp](../img/tools/deep/deepsamplecount-1.webp)
+![deepsamplecount-2.webp](../img/tools/deep/deepsamplecount-2.webp)

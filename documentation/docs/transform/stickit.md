@@ -7,6 +7,7 @@
 
 - [https://hagbarth.net/stickit-digital-makeup-gizmo-for-nuke/](https://hagbarth.net/stickit-digital-makeup-gizmo-for-nuke/)
 - [http://www.nukepedia.com/toolsets/transform/stickit-alpha](http://www.nukepedia.com/toolsets/transform/stickit-alpha)
+- Video: [https://vimeo.com/94563838](https://vimeo.com/94563838)
 
 StickIt V2 is a 2D Warp Match-Moving tool, for matchmoving on (from a 2D perspective) non-rigid surfaces.
 

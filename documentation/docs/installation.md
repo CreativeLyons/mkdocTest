@@ -23,5 +23,3 @@ Here’s how to install and use the Nuke Survival Toolkit:
 
 6. Save your init.py file, and restart your Nuke session.
 7. That’s it! Congrats, you will now see a little red multi-tool in your nuke toolbar.    ![](img/NukeSurvivalToolkit_Documentation_v2.1.0.webp)
-
-![installation-1.webp](img/tools/installation-1.webp)

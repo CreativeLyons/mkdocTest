@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/other/dasgrain](http://www.nukepedia.com/gizmos/other/dasgrain)
+- Video: [https://vimeo.com/284820390](https://vimeo.com/284820390)
 
 Semiautomatic regraining tool.
 

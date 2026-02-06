@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/particles/rainmaker](http://www.nukepedia.com/gizmos/particles/rainmaker)
+- Video: [https://vimeo.com/104600972](https://vimeo.com/104600972)
 
 Adds Rain/water Droplets to lens.
 

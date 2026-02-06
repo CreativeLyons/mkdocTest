@@ -8,14 +8,6 @@ use_directory_urls: false
 # Run with: DYLD_LIBRARY_PATH="/opt/homebrew/lib" PKG_CONFIG_PATH="/opt/homebrew/lib/pkgconfig" mkdocs build
 plugins:
   - search
-  - with-pdf:
-      enabled_if_env: ENABLE_PDF_EXPORT
-      output_path: NST_Documentation.pdf
-      cover_title: Nuke Survival Toolkit Documentation
-      cover_subtitle: Release v2.1.0
-      author: Tony Lyons
-      copyright: "© 2021 Tony Lyons"
-      toc_level: 2
 
 nav:
     - Home: index.md
@@ -23,10 +15,8 @@ nav:
     - Tech Specs: techSpecs.md
     - Menus: menus.md
     - Image:
-        - Overview: image/index.md
         - LabelFromRead: image/labelfromread.md
     - Draw:
-        - Overview: draw/index.md
         - GradMagic: draw/grad-magic.md
         - NoiseAdvanced: draw/noise-advanced.md
         - RadialAdvanced: draw/radial-advanced.md
@@ -47,19 +37,16 @@ nav:
             - Overview: draw/expression-ag/index.md
             - UV_Map: draw/expression-ag/uv-map.md
         - Hagbarth Tools:
-            - Overview: draw/hagbarth/index.md
             - Silk: draw/hagbarth/silk.md
             - Gradient Editor: draw/hagbarth/gradient-editor.md
             - SpotFlare: draw/hagbarth/spot-flare.md
     - Time:
-        - Overview: time/index.md
         - apLoop: time/ap-loop.md
         - Looper: time/looper.md
         - FrameMedian: time/frame-median.md
         - TimeMachine: time/time-machine.md
         - FrameFiller: time/frame-filler.md
     - Channel:
-        - Overview: channel/index.md
         - BinaryAlpha: channel/binary-alpha.md
         - ChannelCombiner: channel/channel-combiner.md
         - ChannelControl: channel/channel-control.md
@@ -68,7 +55,6 @@ nav:
         - StreamCart: channel/stream-cart.md
         - RenameChannels: channel/rename-channels.md
     - Color:
-        - Overview: color/index.md
         - BlacksMatch: color/blacks-match.md
         - ColorCopy: color/color-copy.md
         - Contrast: color/contrast.md
@@ -85,22 +71,18 @@ nav:
         - BiasedSaturation: color/biased-saturation.md
         - HSL_Tool: color/hsl-tool.md
     - Filter:
-        - Overview: filter/index.md
         - Glows:
-            - Overview: filter/glows/index.md
             - apGlow: filter/glows/ap-glow.md
             - ExponGlow: filter/glows/expon-glow.md
             - Glow_Exponential: filter/glows/glow-exponential.md
             - Optical Glow: filter/glows/optical-glow.md
         - Blur:
-            - Overview: filter/blur/index.md
             - ExponBlurSimple: filter/blur/expon-blur-simple.md
             - Directional Blur: filter/blur/directional-blur.md
             - IBlur: filter/blur/iblur.md
             - WaveletBlur: filter/blur/wavelet-blur.md
             - FractalBlur: filter/blur/fractal-blur.md
         - Edges:
-            - Overview: filter/edges/index.md
             - apEdgePush: filter/edges/ap-edge-push.md
             - EdgeDetectAlias: filter/edges/edge-detect-alias.md
             - AntiAliasFilter: filter/edges/anti-alias-filter.md
@@ -115,12 +97,10 @@ nav:
             - EdgeFromAlpha: filter/edges/edge-from-alpha.md
             - VectorExtendEdge: filter/edges/vector-extend-edge.md
         - Distortions:
-            - Overview: filter/distort/index.md
             - Glass: filter/distort/glass.md
             - HeatWave: filter/distort/heat-wave.md
             - X_Distort: filter/distort/x-distort.md
         - X_Tools XM:
-            - Overview: filter/x-tools/index.md
             - X_Aton: filter/x-tools/x-aton.md
             - X_Denoise: filter/x-tools/x-denoise.md
             - X_Sharpen: filter/x-tools/x-sharpen.md
@@ -149,7 +129,6 @@ nav:
         - FillSampler: filter/fill-sampler.md
         - MECfiller: filter/mec-filler.md
     - Keyer:
-        - Overview: keyer/index.md
         - apDespill: keyer/ap-despill.md
         - SpillCorrect: keyer/spill-correct.md
         - DespillToColor: keyer/despill-to-color.md
@@ -159,14 +138,12 @@ nav:
         - KeyChew: keyer/key-chew.md
         - LumaKeyer: keyer/luma-keyer.md
     - Merge:
-        - Overview: merge/index.md
         - ContactSheetAuto: merge/contact-sheet-auto.md
         - KeymixBBox: merge/keymix-bbox.md
         - MergeAtmos: merge/merge-atmos.md
         - MergeBlend: merge/merge-blend.md
         - MergeAll: merge/merge-all.md
     - Transform:
-        - Overview: transform/index.md
         - Vector Math Tools: transform/vector-math-tools.md
         - VectorTracker: transform/vector-tracker.md
         - AutoCropTool: transform/auto-crop-tool.md
@@ -196,7 +173,6 @@ nav:
         - PlanarProjection: transform/planar-projection.md
         - Reconcile3DFast: transform/reconcile3d-fast.md
     - 3D:
-        - Overview: 3d/index.md
         - aPCard: 3d/ap-card.md
         - DummyCam: 3d/dummy-cam.md
         - mScatterGeo: 3d/m-scatter-geo.md
@@ -213,15 +189,13 @@ nav:
         - Noise3DTexture: 3d/noise-3d-texture.md
         - GodRaysProjector: 3d/god-rays-projector.md
     - Particles:
-        - Overview: particles/index.md
         - WaterSchmutz: particles/waterschmutz.md
         - Sparky: particles/sparky.md
         - RainMaker: particles/rainmaker.md
         - ParticleLights: particles/particlelights.md
         - ParticleKiller: particles/particlekiller.md
     - Deep:
-        - Overview: deep/index.md
-        - Deep2VP: deep/deep2vp.md
+        - Deep2VP Suite: deep/deep2vp.md
         - DeepFromDepth: deep/deepfromdepth.md
         - DeepToPosition: deep/deeptoposition.md
         - DeepRecolorMatte: deep/deeprecolormatte.md
@@ -235,7 +209,6 @@ nav:
         - DeepSampleCount: deep/deepsamplecount.md
         - DeepSer: deep/deepser.md
     - CG:
-        - Overview: cg/index.md
         - UV_Mapper: cg/uv-mapper.md
         - PNZ Suite: cg/pnz-suite.md
         - Pos Toolkit: cg/pos-toolkit.md
@@ -258,14 +231,12 @@ nav:
         - P_Ramp: cg/p-ramp.md
         - P_NoiseAdvanced: cg/p-noiseadvanced.md
     - Curves:
-        - Overview: curves/index.md
         - WaveMachine: curves/wavemachine.md
         - Randomizer: curves/randomizer.md
         - AnimationCurve: curves/animationcurve.md
         - CurveRemapper: curves/curveremapper.md
         - NoiseGen: curves/noisegen.md
     - Utilities:
-        - Overview: utilities/index.md
         - GUI_Switch: utilities/gui-switch.md
         - NAN_INF_Killer: utilities/nan-inf-killer.md
         - apViewerBlocker: utilities/apviewerblocker.md
@@ -276,7 +247,6 @@ nav:
         - NukeZ: utilities/nukez.md
         - Pyclopedia: utilities/pyclopedia.md
     - Templates:
-        - Overview: workflow-templates/index.md
         - Advanced Keying Template: workflow-templates/advanced-keying-template.md
         - Advanced Keying Template Stamps: workflow-templates/advanced-keying-template-stamps.md
         - STMap Keyer Setup: workflow-templates/stmap-keyer-setup.md
@@ -310,6 +280,9 @@ theme:
           toggle:
             icon: material/brightness-7
             name: Switch to dark mode
+    font:
+        text: Lato
+        code: JetBrains Mono
 
 markdown_extensions:
     - toc:

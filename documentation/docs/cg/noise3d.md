@@ -8,6 +8,7 @@
 - [https://github.com/SpinVFX/spin_nuke_gizmos](https://github.com/SpinVFX/spin_nuke_gizmos)
 - [http://www.nukepedia.com/gizmos/other/spin_nuke_gizmos-1](http://www.nukepedia.com/gizmos/other/spin_nuke_gizmos-1)
 - [http://erwanleroy.com/spin-vfx-nuke-gizmos-2-0-released/](http://erwanleroy.com/spin-vfx-nuke-gizmos-2-0-released/)
+- Video: [https://vimeo.com/381270956](https://vimeo.com/381270956)
 
 Generate Noise in 3D space based on Position passes. It includes pre-made Position passes for some 3D primitives, or can use a custom Position pass. Uses a 4D noise internally so that the 4th dimension can be used to add a 'boiling' effect.
 

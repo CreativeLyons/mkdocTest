@@ -19,5 +19,3 @@ Looper has two looping methods: Dissolve and Morph
 - Vector generator settings like Vector Detail and Strength are accessible.
 - **Avoid Clip End knob:** Negatively offsets the input clip to avoid looping unexisting frames before first frame.
 - A dynamic text visually indicates the total number of frames being looped.
-
-![looper-1.webp](../img/tools/time/looper-1.webp)

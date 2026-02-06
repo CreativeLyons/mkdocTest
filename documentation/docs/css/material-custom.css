@@ -1,4 +1,6 @@
 /* Custom styles for Material Theme */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 /* ============================================
    FOUNDRY NUKE UI THEME (Hybrid)
@@ -44,16 +46,72 @@
     --md-default-fg-color--lightest: var(--nuke-border);
 }
 
+/* ============================================
+   TYPOGRAPHY OVERRIDES (Option A: VFX Style)
+   ============================================ */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+}
+
+/* Force light text only in Dark Mode */
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4,
+[data-md-color-scheme="slate"] .md-typeset h5,
+[data-md-color-scheme="slate"] .md-typeset h6 {
+    color: var(--nuke-text) !important;
+}
+
+/* Punchier Titles (Increased Sizes) */
+.md-typeset h1 {
+    font-size: 3.0em; /* Bumped from 2.5em to 3.0em */
+    line-height: 1.2;
+    margin-bottom: 0.8em;
+}
+
+.md-typeset h2 {
+    font-size: 2.4em; /* Bumped from 2.0em to 2.4em */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+.md-typeset h3 {
+    font-size: 1.8em; /* Bumped from 1.5em to 1.8em */
+}
+
 /* Header adjustments */
 .md-header {
     background-color: var(--nuke-header);
     border-bottom: 1px solid #000;
 }
 
+.md-header__title {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+}
+
 /* Sidebar adjustments */
 .md-nav {
     font-family: "Inter", "Segoe UI", sans-serif;
     font-size: 0.9rem;
+}
+
+/* Sidebar Title - Blue */
+.md-nav__title {
+    color: var(--nuke-blue) !important;
+}
+
+/* Sidebar Category Labels - Orange to distinguish expandable sections from tool links */
+.md-nav__item--nested > .md-nav__link {
+    color: var(--nuke-orange) !important;
+    font-weight: 600;
 }
 
 /* Active item highlight - Orange (Selected Node) */
@@ -83,6 +141,7 @@
     background-color: var(--nuke-header);
     border-bottom: 1px solid var(--nuke-border);
     font-weight: bold;
+    font-family: "Titillium Web", sans-serif; /* Match headers */
 }
 
 /* Code blocks styled like Script Editor */
@@ -90,7 +149,7 @@
     background-color: var(--nuke-bg-input);
     border: 1px solid var(--nuke-border);
     color: #d4d4d4;
-    font-family: "Consolas", "Monaco", monospace;
+    font-family: "JetBrains Mono", "Consolas", "Monaco", monospace; /* Explicitly set JetBrains Mono */
 }
 
 /* ============================================

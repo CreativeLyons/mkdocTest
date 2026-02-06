@@ -6,9 +6,8 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/filter/directionalblur](http://www.nukepedia.com/gizmos/filter/directionalblur)
+- Video: [https://youtu.be/BrioyN9YMA8](https://youtu.be/BrioyN9YMA8)
 
 Select the rotation angle and size of the blur. Choose between blur and defocus. Has a perpendicular blur that blurs in the perpendicular direction to the angle chosen.
 
 Some helpful options for managing your BBox. Has channels, mask, mix, etc.
-
-![directional-blur-1.jpg](../../img/tools/filter/blur/directional-blur-1.webp)

@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/transform/roto-centroid](http://www.nukepedia.com/gizmos/transform/roto-centroid)
+- Video: [https://youtu.be/McDI_qb3ycE](https://youtu.be/McDI_qb3ycE)
 
 It tries to find out the centroid of a given rotoshape (based upon the area, NOT bounding box or average point values).
 

@@ -6,6 +6,7 @@
 </div>
 
 - [https://github.com/lcrs/blinks/](https://github.com/lcrs/blinks/)
+- Video: [https://youtu.be/jakExzK9MMw](https://youtu.be/jakExzK9MMw)
 
 GlueP glues an image to a position pass, by projecting on it, using BlinkScript.
 ### Inputs

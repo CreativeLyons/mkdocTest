@@ -39,4 +39,8 @@ The Nuke Survival Toolkit is a portable tool menu for the Foundry's Nuke with a 
 
 ---
 
-## About the ToolkitThe Nuke Survival Toolkit is a portable tool menu for the Foundry's Nuke with a hand-picked selection of nuke gizmos collected from all over the web, organized into 1 easy-to-install toolbar.For more information about the authors and contributors, see the [About](about.md) page.
+## About the Toolkit
+
+The Nuke Survival Toolkit is a portable tool menu for the Foundry's Nuke with a hand-picked selection of nuke gizmos collected from all over the web, organized into 1 easy-to-install toolbar.
+
+For more information about the authors and contributors, see the [About](about.md) page.

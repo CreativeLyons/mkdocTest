@@ -6,7 +6,6 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/draw/noiseadvanced](http://www.nukepedia.com/gizmos/draw/noiseadvanced)
+- Video: [https://youtu.be/EsHDBGonwEs](https://youtu.be/EsHDBGonwEs)
 
 Noise with user friendly animation sliders and overscan.
-
-![noise-advanced-1.webp](../img/tools/draw/noise-advanced-1.webp)

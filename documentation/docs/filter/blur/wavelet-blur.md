@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/filter/wavelet-blur](http://www.nukepedia.com/gizmos/filter/wavelet-blur)
+- Video: [https://vimeo.com/212641249](https://vimeo.com/212641249)
 
 This tool allows you to pick a specific range of frequencies to blur in an image. Helpful for doing beauty and other work where preserving original image detail is important.
 

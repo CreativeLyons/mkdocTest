@@ -2,10 +2,15 @@
 
 **Author:** Mark Joey Tang - [http://www.facebook.com/MJTlab](http://www.facebook.com/MJTlab)
 
-<div class="video-container" data-video-id="391732849" data-video-type="vimeo" data-thumbnail="../img/tools/cg/pos-toolkit-thumb.webp">
+<div class="video-container" data-video-id="0K3Inzt00lE" data-video-type="youtube" data-thumbnail="../img/tools/cg/pos-toolkit-thumb.webp">
+</div>
+
+<div class="video-container" data-video-id="n2TvdA-fElI" data-video-type="youtube">
 </div>
 
 - [http://www.nukepedia.com/toolsets/3d/pos-toolkit](http://www.nukepedia.com/toolsets/3d/pos-toolkit)
+- Demo Video / ToolGuide: [https://youtu.be/0K3Inzt00lE](https://youtu.be/0K3Inzt00lE)
+- v1.2 update: [https://youtu.be/n2TvdA-fElI](https://youtu.be/n2TvdA-fElI)
 
 This position toolkit is based on Deep2VP to create and work in 2D compositing instead of Deep. The toolset has PosMatte, PosPattern and PosProjection, the function and workflow is the same as DVPMatte, DVPattern and DVProjection in Deep2VP.
 

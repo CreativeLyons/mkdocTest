@@ -2,7 +2,7 @@
 
 **Author:** Frank Rueter - [http://www.ohufx.com](http://www.ohufx.com)
 
-![itransform-1.webp](../img/tools/transform/itransform-1.webp)
+![itransform-2.webp](../img/tools/transform/itransform-2.webp)
 
 - [http://www.nukepedia.com/gizmos/transform/itransform/](http://www.nukepedia.com/gizmos/transform/itransform/)
 
@@ -17,4 +17,4 @@ Mask based warper with transform controls.
 - **Mix:** Using a transformMasked node instead of a transform, so the node is able to mix the warp effect
 Otherwise the node reacts the same way as the original ITransform node.
 
-![itransform-2.webp](../img/tools/transform/itransform-2.webp)
+![itransform-1.webp](../img/tools/transform/itransform-1.webp)

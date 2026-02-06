@@ -8,6 +8,7 @@
 - [http://www.nukepedia.com/gizmos/draw/rp-reformat](http://www.nukepedia.com/gizmos/draw/rp-reformat)
 - [https://m.facebook.com/MJTlab/posts/628051737776651](https://m.facebook.com/MJTlab/posts/628051737776651)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
+- Video: [https://youtu.be/vGZ6kNnOcTs](https://youtu.be/vGZ6kNnOcTs)
 
 Reformat Roto & RotoPaint node's vector data without resolution issue. Keep the same result on any paint strokes. Support all kinds of splines, brushes and aspect ratio reformat.
 ### How to use:
@@ -22,7 +23,5 @@ Reformat Roto & RotoPaint node's vector data without resolution issue. Keep the 
  - **Spline:** translate, scale, center & feather
  - **Stroke:** translate, scale, center, source translate, brush size, brush space & effect
 - Resize process will not touch any data on Layer.
-
-![rp-reformat-2.jpg](../img/tools/transform/rp-reformat-2.webp)
 
 ![rp-reformat-1.webp](../img/tools/transform/rp-reformat-1.webp)

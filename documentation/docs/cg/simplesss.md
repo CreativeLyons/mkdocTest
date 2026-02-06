@@ -7,6 +7,7 @@
 
 - [http://www.nukepedia.com/gizmos/3d/simple-subsurface-scattering](http://www.nukepedia.com/gizmos/3d/simple-subsurface-scattering)
 - [http://www.hagbarth.net/translucency-shader-in-nuke/](http://www.hagbarth.net/translucency-shader-in-nuke/)
+- Video: [https://vimeo.com/462218833](https://vimeo.com/462218833)
 
 SimpleSSS tool lets you create a simple, stylized faux SSS/translucency effect on your Nuke Geo.
 

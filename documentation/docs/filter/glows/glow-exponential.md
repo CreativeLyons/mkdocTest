@@ -6,6 +6,7 @@
 </div>
 
 - [https://github.com/SpinVFX/spin_nuke_gizmos](https://github.com/SpinVFX/spin_nuke_gizmos)
+- Video: [https://vimeo.com/381270956](https://vimeo.com/381270956)
 
 Exponential Glow node, with options to recolor and adjust falloff.
 

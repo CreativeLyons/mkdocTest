@@ -8,6 +8,7 @@
 - [http://www.nukepedia.com/gizmos/deep/deep2vp](http://www.nukepedia.com/gizmos/deep/deep2vp)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
 - [https://github.com/xmjtx/MJTLab/tree/main/gizmo_library/Deep/Deep2VP_v40](https://github.com/xmjtx/MJTLab/tree/main/gizmo_library/Deep/Deep2VP_v40)
+- Video: [https://vimeo.com/338501133](https://vimeo.com/338501133)
 
 Deep2VP suite is a toolset to convert deep data to world space position, and process with all the possibilities of this deepPosition data.
 

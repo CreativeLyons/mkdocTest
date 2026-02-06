@@ -5,7 +5,3 @@ The tool menu’s categorisation is laid out in a bit of a mix between Nuke’s 
 | Nuke Survival Toolkit Menu Bar:			         | Nukepedia Menu Bar  |
 | ---	                                          | --- |
 | ![](img/NSTMenus.webp)   | ![](img/NukepediaMenus.webp) |
-
-![menus-1.webp](img/tools/menus-1.webp)
-
-![menus-2.webp](img/tools/menus-2.webp)

@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/python/3d/cardtotrack](http://www.nukepedia.com/python/3d/cardtotrack)
+- Video: [https://youtu.be/N-_M2lJWpe4](https://youtu.be/N-_M2lJWpe4)
 
 TProject is similar to CProject but uses a Transform instead of a CornerPin to do a basic single point track.
 

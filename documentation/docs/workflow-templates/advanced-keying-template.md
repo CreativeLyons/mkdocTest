@@ -9,6 +9,7 @@
 - [https://compositingmentor.com/2015/12/18/advanced-keying-breakdown-4-1-template/](https://compositingmentor.com/2015/12/18/advanced-keying-breakdown-4-1-template/)
 - [https://www.youtube.com/playlist?list=PLt2Nu4KGXJ2iXe7s-ydCQ9u1tTzzApmJX](https://www.youtube.com/playlist?list=PLt2Nu4KGXJ2iXe7s-ydCQ9u1tTzzApmJX)
 - [https://compositingmentor.com/category/advanced-keying-breakdown/](https://compositingmentor.com/category/advanced-keying-breakdown/)
+- Video: [https://youtu.be/BKcKpPFVmCk](https://youtu.be/BKcKpPFVmCk)
 
 For in-depth detail about how to use this template and different techniques and methods to look for in each section, please visit the full Keying Tutorial Playlist and website series linked above.
 ### Template Structure

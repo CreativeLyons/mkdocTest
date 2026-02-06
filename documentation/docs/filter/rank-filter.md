@@ -6,6 +6,7 @@
 </div>
 
 - [https://www.compositingpro.com/nuke-blinkscript-rank-filter/](https://www.compositingpro.com/nuke-blinkscript-rank-filter/)
+- Video: [https://youtu.be/GKLGd3dFSU4](https://youtu.be/GKLGd3dFSU4)
 
 Faster Blink Median with additional control.
 

@@ -7,6 +7,7 @@
 
 - [https://www.nukepedia.com/gizmos/channel/streamcart](https://www.nukepedia.com/gizmos/channel/streamcart)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
+- Video: [https://vimeo.com/367649727](https://vimeo.com/367649727)
 
 Select channel or geo and quickly shuffle it.
 ### How to use (channel shuffle):
@@ -22,5 +23,3 @@ Select channel or geo and quickly shuffle it.
 ![stream-cart-2.jpg](../img/tools/channel/stream-cart-2.webp)
 
 ![stream-cart-3.webp](../img/tools/channel/stream-cart-3.webp)
-
-![stream-cart-1.webp](../img/tools/channel/stream-cart-1.webp)

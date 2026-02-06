@@ -7,6 +7,7 @@
 
 - [http://www.nukepedia.com/gizmos/3d/unify3dcoordinate](http://www.nukepedia.com/gizmos/3d/unify3dcoordinate)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
+- Video: [https://vimeo.com/308083719](https://vimeo.com/308083719)
 
 Unify all the 3D transformation nodes into one single coordinate value. Snap vertex supported animation, shifted pivot, and able to export translation and rotation.
 

@@ -7,6 +7,7 @@
 
 - [http://www.nukepedia.com/gizmos/other/viewer-render](http://www.nukepedia.com/gizmos/other/viewer-render)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
+- Video: [https://vimeo.com/315590788](https://vimeo.com/315590788)
 
 Viewer Render is a tool that can render anything shown in viewer, even with UI, like playblast in Maya but in Nuke. Supports 2D and 3D, anything visible in the viewer.
 

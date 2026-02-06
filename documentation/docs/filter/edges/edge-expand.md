@@ -7,6 +7,7 @@
 
 - [http://www.nukepedia.com/gizmos/other/spin_nuke_gizmos-1](http://www.nukepedia.com/gizmos/other/spin_nuke_gizmos-1)
 - [https://github.com/SpinVFX/spin_nuke_gizmos](https://github.com/SpinVFX/spin_nuke_gizmos)
+- Video: [https://vimeo.com/381270956](https://vimeo.com/381270956)
 
 Expand edges to fix fringing on keys.
 

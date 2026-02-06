@@ -10,6 +10,8 @@
 
 - [http://www.nukepedia.com/gizmos/deep/deepboolean](http://www.nukepedia.com/gizmos/deep/deepboolean)
 - [http://bit.ly/menupy](http://bit.ly/menupy)
+- Video: [https://vimeo.com/354811205](https://vimeo.com/354811205)
+- Video: [https://vimeo.com/322695922](https://vimeo.com/322695922)
 
 DeepBoolean works like Maya's boolean tool, but for deep in Nuke. It works like deepHoldout but with more function than that.
 ### Modes

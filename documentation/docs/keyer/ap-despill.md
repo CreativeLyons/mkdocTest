@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/blink/colour/apdespill](http://www.nukepedia.com/blink/colour/apdespill)
+- Video: [https://vimeo.com/208432912](https://vimeo.com/208432912)
 
 Nuke gizmo made to despill an image, with options to despill any hue (and not only the primaries), select different algorithms for de/re-spilling, and protect tones from the despill. All coded in Blinkscript.
 ### Features:

@@ -6,6 +6,7 @@
 </div>
 
 - [http://www.nukepedia.com/gizmos/particles/db_sparky](http://www.nukepedia.com/gizmos/particles/db_sparky)
+- Video: [https://vimeo.com/420973211](https://vimeo.com/420973211)
 
 Easy to use particle setup to create sparks. Comes with a few animation presets.
 
